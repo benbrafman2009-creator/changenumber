@@ -1,4 +1,5 @@
-
+def change():
+	
 def bneg(num, byet):
 	ones_num = []
 	byenry_num = [1] * byet
