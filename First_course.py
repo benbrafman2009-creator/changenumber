@@ -1,4 +1,3 @@
-def change():
 
 def bneg(num, byet):
 	ones_num = []
